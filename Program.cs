@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-string project = "focus-cache-387205";
+string project = "XXXXXXXXXXXXXXXXX";
 
 //InitializeProjectId(project);
 AddData1(project).Wait();
